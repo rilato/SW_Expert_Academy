@@ -1,2 +1,2 @@
 # SW_Expert_Academy
-study algorithm with c++
+Repository for algorithmic study using c++
